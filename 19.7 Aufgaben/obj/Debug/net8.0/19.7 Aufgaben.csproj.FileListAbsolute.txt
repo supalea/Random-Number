@@ -1,0 +1,14 @@
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\bin\Debug\net8.0\19.7 Aufgaben.exe
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\bin\Debug\net8.0\19.7 Aufgaben.deps.json
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\bin\Debug\net8.0\19.7 Aufgaben.runtimeconfig.json
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\bin\Debug\net8.0\19.7 Aufgaben.dll
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\bin\Debug\net8.0\19.7 Aufgaben.pdb
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\19.7 Aufgaben.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\19.7 Aufgaben.AssemblyInfoInputs.cache
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\19.7 Aufgaben.AssemblyInfo.cs
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\19.7 Aufgaben.csproj.CoreCompileInputs.cache
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\19.7 Aufgaben.dll
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\refint\19.7 Aufgaben.dll
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\19.7 Aufgaben.pdb
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\19.7 Aufgaben.genruntimeconfig.cache
+C:\C# Kurs\19.7 Aufgaben\19.7 Aufgaben\obj\Debug\net8.0\ref\19.7 Aufgaben.dll
